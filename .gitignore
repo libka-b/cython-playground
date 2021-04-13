@@ -1,0 +1,9 @@
+.idea/
+venv
+*.so
+*.html
+*build
+
+# files to be manually ignored
+fibo/c-bindings/wrap_fib.c
+fibo/cython/fibo.c
